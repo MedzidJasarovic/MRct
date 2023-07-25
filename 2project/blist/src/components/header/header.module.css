@@ -1,0 +1,8 @@
+.heder {
+  background-color: rgba(41, 102, 225, 0.575);
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+  height: 10vh;
+  position: fixed;
+}
