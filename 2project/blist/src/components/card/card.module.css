@@ -1,8 +1,12 @@
 .card {
-  width: 24vw;
+  width: 25vw;
   height: 25vh;
   background-color: beige;
 }
 /* git remote add origin https://github.com/MedzidJasarovic/MRct.git
  git branch -M main
  git push -u origin main */
+
+/* git add .
+ git commit -m "nesto"
+ git push */
